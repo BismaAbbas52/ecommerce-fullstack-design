@@ -1,0 +1,12 @@
+{
+  "products": [],
+  "users": [
+    {
+      "id": "1782390878309",
+      "name": "Admin",
+      "email": "admin@homelux.com",
+      "password": "$2b$10$3oDd8ct9mbqAP6ff2/4In.Wz74p/NYt9uiSgRYdwqEn2Z2tuApE9a",
+      "isAdmin": true
+    }
+  ]
+}
