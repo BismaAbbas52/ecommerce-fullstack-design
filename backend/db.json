@@ -1,5 +1,15 @@
 {
-  "products": [],
+  "products": [
+    {
+      "id": "1782574744559",
+      "name": "Vasee",
+      "price": 222,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWdwOFBs2ww7a6s4-J_aM4Hf61rTzeqQprqA&s",
+      "description": "Ashetic decoration piece",
+      "category": "Vases",
+      "stock": 10
+    }
+  ],
   "users": [
     {
       "id": "1782390878309",
